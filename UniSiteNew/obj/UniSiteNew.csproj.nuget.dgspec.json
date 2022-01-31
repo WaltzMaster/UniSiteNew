@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slavv\\Documents\\UniSiteNew\\UniSiteNew\\UniSiteNew\\UniSiteNew.csproj": {}
+    "C:\\Users\\slavv\\Documents\\UniSiteNew2\\UniSiteNew\\UniSiteNew.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slavv\\Documents\\UniSiteNew\\UniSiteNew\\UniSiteNew\\UniSiteNew.csproj": {
+    "C:\\Users\\slavv\\Documents\\UniSiteNew2\\UniSiteNew\\UniSiteNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavv\\Documents\\UniSiteNew\\UniSiteNew\\UniSiteNew\\UniSiteNew.csproj",
+        "projectUniqueName": "C:\\Users\\slavv\\Documents\\UniSiteNew2\\UniSiteNew\\UniSiteNew.csproj",
         "projectName": "UniSiteNew",
-        "projectPath": "C:\\Users\\slavv\\Documents\\UniSiteNew\\UniSiteNew\\UniSiteNew\\UniSiteNew.csproj",
+        "projectPath": "C:\\Users\\slavv\\Documents\\UniSiteNew2\\UniSiteNew\\UniSiteNew.csproj",
         "packagesPath": "C:\\Users\\slavv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavv\\Documents\\UniSiteNew\\UniSiteNew\\UniSiteNew\\obj\\",
+        "outputPath": "C:\\Users\\slavv\\Documents\\UniSiteNew2\\UniSiteNew\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
